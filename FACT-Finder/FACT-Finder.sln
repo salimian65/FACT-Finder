@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FACT-Finder", "FACT-Finder.csproj", "{AFEFC241-D591-4F7A-8B02-2CD13C64A15B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "..\Test\Test.csproj", "{C25C968C-A617-410E-84AB-E60AAB313E26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFEFC241-D591-4F7A-8B02-2CD13C64A15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFEFC241-D591-4F7A-8B02-2CD13C64A15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFEFC241-D591-4F7A-8B02-2CD13C64A15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFEFC241-D591-4F7A-8B02-2CD13C64A15B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C25C968C-A617-410E-84AB-E60AAB313E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C25C968C-A617-410E-84AB-E60AAB313E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C25C968C-A617-410E-84AB-E60AAB313E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C25C968C-A617-410E-84AB-E60AAB313E26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48D19937-9868-4D9D-9077-F3777597C531}
+	EndGlobalSection
+EndGlobal
